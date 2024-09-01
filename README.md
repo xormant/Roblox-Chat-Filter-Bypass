@@ -17,4 +17,4 @@ python roblox_bypassv2.py 'text to bypass'
 
 Example video for GUI is below too.
 ----------------------------------
-![](https://iili.io/dNLDbhF.gif)
+![Example](https://iili.io/dNLDbhF.gif)
