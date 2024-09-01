@@ -1,7 +1,7 @@
 # 🤫 Roblox Chat Filter Bypass  (WORKING AS OF: 8/31/2024)
 
 ## About
-A relatively simple chat bypass tool using special characters. It's designed to evade detection and is considered fud (fully undetectable). This means you're unlikely to get banned unless your account is directly reported.
+A subtle but simple chat bypass tool using special characters. It's designed to evade detection and is considered fud (fully undetectable). This means you're unlikely to get banned unless your account is directly reported.
 
 ## Features
 - Uses special characters to bypass chat filters.
