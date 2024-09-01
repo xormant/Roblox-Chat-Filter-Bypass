@@ -13,3 +13,8 @@ A subtle but simple chat bypass tool using special characters. It's designed to 
 Download the script and run the python file like so  ↙
 
 python roblox_bypassv2.py 'text to bypass'
+
+
+Example video for GUI is below too.
+----------------------------------
+![](https://iili.io/dNLDbhF.gif)
