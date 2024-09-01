@@ -7,6 +7,7 @@ A relatively simple chat bypass tool using special characters. It's designed to 
 - Uses special characters to bypass chat filters.
 - FUD (Won't get banned unless directly reported).
 - Easy to integrate into other projects like exploits / scripts.
+- ALSO bypasses the direct message filtering!
 
 ## Installation
 Download the script and run the python file like so  ↙
