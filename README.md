@@ -14,6 +14,8 @@ Download the script and run the python file like so  ↙
 
 python roblox_bypassv2.py 'text to bypass'
 
+## Note
+- Only functions without problems on windows 10 at the moment
 
 Example / tutorial video for optional GUI software is below. (Recommended if you don't know how to manually install packages or jus slow)
 ----------------------------------
