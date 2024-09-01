@@ -15,7 +15,7 @@ Download the script and run the python file like so  ↙
 python roblox_bypassv2.py 'text to bypass'
 
 
-Example / tutorial video for optional GUI software is below.
+Example / tutorial video for optional GUI software is below. (Recommended if you don't know how to manually install packages or jus slow)
 ----------------------------------
 
 ![example](https://github.com/user-attachments/assets/d72c3fb8-66cc-436e-945f-ab6aa2edc76a)
